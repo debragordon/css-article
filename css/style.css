@@ -13,3 +13,58 @@ ul {
   color: #055e54;
   font-weight: bold;
 }
+
+#article_1 {
+  background-color: white;
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  font-size: .75em;
+  color: purple;
+  line-height: 90%;
+  padding: 10px;
+  border: 5px solid red;
+  border-radius: 5px;
+}
+
+#article_2 {
+  background-color: black;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-size: 1.1em;
+  color: yellow;
+  line-height: 110%;
+  padding: 5px;
+  border: 10px dotted blue;
+  border-radius: 10px;
+}
+
+#article_3 {
+  background-color: purple;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+  font-size: 1.25em;
+  color: white;
+  line-height: 80%;
+  padding: 20px;
+  border: 2px dashed gray;
+  border-radius: 50px;
+}
+
+#article_4 {
+  background-color: yellow;
+  font-family: "Futura, "Trebuchet MS", Arial, sans-serif;
+  font-size: .5em;
+  color: blue;
+  line-height: 120%;
+  padding: 50px;
+  border: 30px double black;
+  border-radius: 100px;
+}
+
+#article_5 {
+  background-color: blue;
+  font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+  font-size: 1.5em;
+  color: black;
+  line-height: 150%;
+  padding: 15px;
+  border: 25px groove white;
+  border-radius: 25px;
+}
