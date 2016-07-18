@@ -1,0 +1,15 @@
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+  background-image: url("http://www.psipre.com/wp-content/uploads/2015/05/PSIPRELADIA3.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.active {
+  color: #055e54;
+  font-weight: bold;
+}
