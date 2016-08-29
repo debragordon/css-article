@@ -1,7 +1,7 @@
 # NSS Exercise | CSS Styling (Articles)
 
 ##Sneak Preview
-![Site Screenshot](https://raw.githubusercontent.com/debragordon/css-articles/master/screenshots/css-style-articles.png)
+![Site Screenshot](https://raw.githubusercontent.com/debragordon/css-article/master/screenshots/css-style-articles.png)
 
 ## Description
 We were tasked showcase our knowledge of targeting and styling elements using CSS.
